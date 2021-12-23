@@ -1,4 +1,4 @@
-# 快速上手
+# 快速上手   士大夫撒旦法
 
 ::: warning 前提条件
 VuePress 需要 [Node.js](https://nodejs.org/en/) >= 8.6
